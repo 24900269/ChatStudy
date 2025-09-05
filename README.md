@@ -130,7 +130,8 @@ server.close()
 
 ## OUTPUT:
 
-![alt text](image.png)
+<img width="1471" height="396" alt="image" src="https://github.com/user-attachments/assets/2aa0a042-bb82-44dd-bd85-a1797b7e55ca" />
+
 
 ## Result:
 
