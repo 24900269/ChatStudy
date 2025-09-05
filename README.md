@@ -1,6 +1,5 @@
 # Ex. No:1b 			Study of Client Server Chat Applications
-## NAME : SHREE CHANDRU R
-## REGISTER NUMBER : 212224203264
+
 ## Aim: 
 To perform a study on Client Server Chat Applications
 ## Introduction:
